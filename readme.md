@@ -1,1 +1,1 @@
-## Notes and codes for leetcode exercise.
+## Notes and code for leetcode questions.
